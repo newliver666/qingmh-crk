@@ -4,9 +4,11 @@
 
 ## 下载
 
-前往 [Releases](https://github.com/newliver666/qingmh-crk/releases) 页面下载最新 APK：
+前往 [Releases](https://github.com/newliver666/qingmh-crk/releases) 页面下载：
 
-- `青漫_v2.3.23_opt.apk`（约 152 MB）
+- **[qingmh_v2.3.23_opt.apk](https://github.com/newliver666/qingmh-crk/releases/download/v2.3.23/qingmh_v2.3.23_opt.apk)**（约 152 MB）
+
+SHA-256：`ff7f0e4bad79bb2a2cdfd160c3148d03e0baf0e806af0f1ce943f497f931fcac`
 
 ## 本次优化内容
 
@@ -28,13 +30,13 @@
 
 ```bash
 adb uninstall com.kunlun.llxq
-adb install -r 青漫_v2.3.23_opt.apk
+adb install -r qingmh_v2.3.23_opt.apk
 ```
 
 包体较大时推荐先推送到设备再安装，速度更稳：
 
 ```bash
-adb push 青漫_v2.3.23_opt.apk /data/local/tmp/qm.apk
+adb push qingmh_v2.3.23_opt.apk /data/local/tmp/qm.apk
 adb shell pm install -r -t /data/local/tmp/qm.apk
 ```
 
