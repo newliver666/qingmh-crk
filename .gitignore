@@ -1,0 +1,4 @@
+# 安装包走 GitHub Releases，不入库
+*.apk
+*.apk.idsig
+dist/
