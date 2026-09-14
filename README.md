@@ -4,9 +4,11 @@
 
 ## 下载
 
-**[点此直接下载 qingmh-latest.apk](https://github.com/newliver666/qingmh-crk/releases/latest/download/qingmh-latest.apk)**（约 152 MB）
+**[点此直接下载 qingmh-2.3.23-latest.apk](https://github.com/newliver666/qingmh-crk/releases/latest/download/qingmh-2.3.23-latest.apk)**（约 152 MB）
 
-也可以前往 [Releases](https://github.com/newliver666/qingmh-crk/releases) 页面下载 `qingmh-latest.apk`。
+也可以前往 [Releases](https://github.com/newliver666/qingmh-crk/releases) 页面下载 `qingmh-2.3.23-latest.apk`。
+
+下载后请核对大小：**159,745,473 字节（152.3 MB）**；官方原版是 117 MB，如果拿到 117 MB 说明下错了。
 
 SHA-256：`ff7f0e4bad79bb2a2cdfd160c3148d03e0baf0e806af0f1ce943f497f931fcac`
 
